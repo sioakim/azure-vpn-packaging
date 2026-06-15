@@ -1,0 +1,6 @@
+# Built artifacts (published as GitHub release assets, not committed)
+*.zip
+*.dmg
+
+# macOS
+.DS_Store
